@@ -144,6 +144,8 @@ site/
 Utilize este espaço para comentar:
 
 - dificuldades encontradas
-- 
+-  estilização e posicionamento dos elementos
 - decisões de design
+-  decisões de design mais claras e fáceis de entender
 - melhorias que podem ser feitas no futuro
+ preencher as partes de projeto, talvez um position fix no menu  e botão de mostrar nao sumir e poder voltar sem aperta f5
